@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerzz22
 - 👀 I’m interested in programming and cyber related projects 
-- 🌱 I’m currently learning Bit/ cyber security 
+- 🌱 IT/cyber security enthusiastic 
 - 💞️ I’m looking to collaborate on any projects related to my field of study (cyber security)
 - 📫 How to reach me on email mwilalukoshi@gmail.com
 
