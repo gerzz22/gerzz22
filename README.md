@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gerzz22
+- 👋 Hi, I’m @gerzz
 - 👀 I’m interested in programming and cyber related projects 
 - 🌱 IT/cyber security enthusiastic 
 - 💞️ I’m looking to collaborate on any projects related to my field of study (cyber security)
